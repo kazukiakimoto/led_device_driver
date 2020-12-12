@@ -17,13 +17,23 @@ static ssize_t led_write(struct file* filp, const char* buf, size_t count, loff_
     char c;
     if(copy_from_user(&c,buf,sizeof(char))) return -EFAULT;
     
-    if(c=='0'){
-        gpio_base[10]=0x07<<20;    
+    if(c=='d'){
+        gpio_base[10]=1<<20;
+	gpio_base[10]=1<<21;
+	gpio_base[10]=1<<7;
     }
-    else if(c=='1'){
-    	gpio_base[7]=0x07<<20;
+    else if(c=='b'){
+    	gpio_base[7]=1<<20;
     }
  
+    else if(c=='r'){
+        gpio_base[7]=1<<21;
+    }
+
+    else if(c=='y'){
+        gpio_base[7]=1<<7;
+    }
+
     return 1;
 }
 
