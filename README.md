@@ -22,7 +22,9 @@ RaspberryPi3ModelB上でLED三個を光らせるプログラム
   - jumper wire 
     - male-male http://akizukidenshi.com/catalog/g/gC-05371/  
     - male-female http://akizukidenshi.com/catalog/g/gC-08933/  
- 
+# 回路
+![Alt](https://github.com/kazukiakimoto/led_device_driver/blob/master/image/IMG_6012.PNG)
+
 # インストール
 ~~~
 $ git clone https://github.com/kazukiakimoto/led_device_driver
