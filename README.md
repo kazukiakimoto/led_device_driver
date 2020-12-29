@@ -30,7 +30,17 @@ $ git clone https://github.com/kazukiakimoto/led_device_driver
 
 # 使い方
 ~~~
-
+$ make
+$ sudo insmod myled.ko  
+$ sudo chmod 666 /dev/myled0 
+ex)赤色のLEDを光らせる
+$ echo r > /dev/myled0
+ex)青色のLEDを光らせる
+$ echo b > /dev/myled0
+ex)黄色のLEDを光らせる
+$ echo y > /dev/myled0
+ex)全消灯
+$ echo d > /dev/myled0
 ~~~
 
 
