@@ -47,5 +47,5 @@ $ echo d > /dev/myled0
 
 
 # LICENSE
-GNU General Public License v3.0　
-　https://www.gnu.org/licenses/gpl-3.0.ja.html
+GNU General Public License v3.0  
+https://www.gnu.org/licenses/gpl-3.0.ja.html
