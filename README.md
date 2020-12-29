@@ -23,7 +23,7 @@ RaspberryPi3ModelB上でLED三個を光らせるプログラム
     - male-male http://akizukidenshi.com/catalog/g/gC-05371/  
     - male-female http://akizukidenshi.com/catalog/g/gC-08933/  
 # 回路
-![Alt](https://github.com/kazukiakimoto/led_device_driver/blob/master/image/IMG_6012.PNG)
+![Alt](https://github.com/kazukiakimoto/led_device_driver/blob/master/image/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3.JPG)
 
 # インストール
 ~~~
