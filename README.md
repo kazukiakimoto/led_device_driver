@@ -13,7 +13,7 @@ RaspberryPi3ModelB上でLED三個を光らせるプログラム
 # スペック
 - PC:Raspberry Pi 3 Model B  
 - OS:Ubuntu 20.04.1 LTS  
-- Part:
+- Parts:
   - LED  
     - red http://akizukidenshi.com/catalog/g/gI-06245/ 
     - blue https://akizukidenshi.com/catalog/g/gI-06247/  
