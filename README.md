@@ -16,3 +16,7 @@ $ git clone https://github.com/kazukiakimoto/led_device_driver
 ~~~
 
 ~~~
+
+
+#LICENSE
+GNU General Public License v3.0
