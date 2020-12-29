@@ -1,6 +1,6 @@
 # led_device_driver
 ![Alt] 
-(https://github.com/kazukiakimoto/led_device_driver/blob/master/image/IMG_6012.PN)
+(https://github.com/kazukiakimoto/led_device_driver/blob/master/image/IMG_6012.PNG)
 
 # 概要
 RaspberryPi3ModelB上でLED三個を光らせるプログラム
